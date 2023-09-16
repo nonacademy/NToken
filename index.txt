@@ -1,0 +1,10 @@
+Initial Supply -> 80, 000000
+Max Supply(capped) 100 M
+
+Make the token burnable
+Create block reward to distribute new tokens to miners
+
+blockReward
+_beforeTokenTransfer
+_mintMinerReward
+
